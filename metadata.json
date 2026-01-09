@@ -1,0 +1,8 @@
+{
+  "name": "PhysioSense AI",
+  "description": "Professional Morphopsychology and Physiognomy analysis tool for self-discovery and interpersonal understanding based on the studies of Moisés Acedo Codina.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
